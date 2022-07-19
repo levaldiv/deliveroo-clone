@@ -16,5 +16,5 @@ How's it going everyone! This here is a React Native Responsive Deliveroo Clone 
 
 Preview:
 <p align="center" width="100">
-<img src="" width="650" height="550"/>
+<img src="/assets/prev.png" width="650" height="550"/>
 </p>
